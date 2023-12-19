@@ -10,7 +10,7 @@ The project incorporates Axios, a JavaScript library used for making HTTP reques
 
 
 
-![img 1](https://github.com/jaqviana/coinConvert/assets/124181385/c84643e7-ffaa-4d4b-b41b-77818021e239)
+![img 1](https://github.com/jaqviana/coinConvert/assets/124181385/c84643e7-ffaa-4d4b-b41b-77818021e239) 
 ![img 2](https://github.com/jaqviana/coinConvert/assets/124181385/ac467dc3-c284-49a1-8111-27a66b39706e)
 ![img 3](https://github.com/jaqviana/coinConvert/assets/124181385/0dd4a84d-a9a6-450d-b0b3-2af2d5836056)
 
