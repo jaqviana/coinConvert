@@ -8,14 +8,14 @@ The project incorporates Axios, a JavaScript library used for making HTTP reques
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 
-![Screenshot 2023-12-18 164653](https://github.com/jaqviana/coinConvert/assets/124181385/12330be1-9bf5-48ab-a93d-7c5ed73643c6)
-![Screenshot 2023-12-18 164812](https://github.com/jaqviana/coinConvert/assets/124181385/64826fdb-d61f-4bfb-80ea-e42aeaa0afa3)
-![Screenshot 2023-12-18 165153](https://github.com/jaqviana/coinConvert/assets/124181385/ee802e29-0578-4b0b-b32f-3c45a7df6b3d)
 
 
-
+![img 1](https://github.com/jaqviana/coinConvert/assets/124181385/c84643e7-ffaa-4d4b-b41b-77818021e239)
+![img 2](https://github.com/jaqviana/coinConvert/assets/124181385/ac467dc3-c284-49a1-8111-27a66b39706e)
+![img 3](https://github.com/jaqviana/coinConvert/assets/124181385/0dd4a84d-a9a6-450d-b0b3-2af2d5836056)
 
 ## Tech
+
 
 * React Native
 * Axios
